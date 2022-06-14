@@ -13,7 +13,7 @@
   <img align="center" alt="MahmoudAhmed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
   <a href="https://www.linkedin.com/in/mahmoud-ahmad-953943160/">
-  <img align="center" alt="Mahmoud's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Mahmoud's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
  
