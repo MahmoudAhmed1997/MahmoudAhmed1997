@@ -2,7 +2,7 @@
 
 
  <p align="center">
-  <a href=""></a> •
+  <a href=""></a> 
   <a href=" "></a>
 </p>
 
