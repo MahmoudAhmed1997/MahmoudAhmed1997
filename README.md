@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Azom Company**
 - 🌱 I’m currently learning **Dart and Data Structure**
 - 💬 Ask me about **Dart, Git and Flutter**
-- 📫 How to reach me: [@MahmoudAhmed](https://api.whatsapp.com/send/?phone=970599849944&text&app_absent=0) on Whatsapp
+- 📫 How to reach me: [@MahmoudAhmed](https://api.whatsapp.com/send/?phone=970599849944&text&app_absent=0) on Whatsapp || email: mhmudahmed1997@gmail.com
 - 🏆 Check my portfolio : [@ProtFolio]([sent=0](https://portfolio-afb22.web.app/#/)) 
  
  
@@ -25,7 +25,7 @@
   <img align="right" alt="MahmoudAhmed | Facebook" width="25px" src="https://cdn.iconscout.com/icon/free/png-64/facebook-262-721949.png" />
 </a>
 <a href="https://api.whatsapp.com/send/?phone=970599849944&text&app_absent=0">
-  <img align="right" alt="MahmoudAhmed | Whatsapp" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/whatsapp.svg" />
+  <img align="right" alt="MahmoudAhmed | Whatsapp" width="25px" src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" />
 </a>
   
  
