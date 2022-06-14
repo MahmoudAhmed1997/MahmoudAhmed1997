@@ -15,8 +15,11 @@
  <a href="https://www.linkedin.com/in/mahmoud-ahmad-953943160/">
   <img align="right" alt="Mahmoud's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mahmoud-ahmad-953943160/">
-  <img align="right" alt="Mahmoud's LinkedIN" width="25px" src="https://logowik.com/content/uploads/images/adobe-portfolio8664.jpg" />
+<a href="https://portfolio-afb22.web.app/#/">
+  <img align="right" alt="Mahmoud's LinkedIN" width="25px" src="https://iconape.com/wp-content/png_logo_vector/portfolio.png" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100002797802139">
+  <img align="right" alt="Mahmoud's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
   
  
