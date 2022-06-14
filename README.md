@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Waternote Company**
 - 🌱 I’m currently learning **Dart and Data Structure**
 - 💬 Ask me about **Dart, Git and Flutter**
-- 📫 How to reach me: [@Mahmoud Ahmed](mhmudahmed1997@gmail.com) on email
+- 📫 How to reach me: [@Mahmoud](mhmudahmed1997@gmail.com) on email
  
  
 
