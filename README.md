@@ -1,10 +1,6 @@
 <h2 align="center">👋 Hello! I'm Mahmoud.</h2>
 
-
- <p align="center">
-  <a href="">-----------</a> 
-  <a href="">----------</a>
-</p>
+ 
 
 
 
