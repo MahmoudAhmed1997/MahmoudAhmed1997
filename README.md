@@ -9,11 +9,11 @@
  
  
  
-  <a href="https://twitter.com/MahmoudNAhmad2">
-  <img align="center" alt="MahmoudAhmed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+ <a href="https://twitter.com/MahmoudNAhmad2">
+  <img align="right" alt="MahmoudAhmed | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-  <a href="https://www.linkedin.com/in/mahmoud-ahmad-953943160/">
-  <img align="right" alt="Mahmoud's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ <a href="https://www.linkedin.com/in/mahmoud-ahmad-953943160/">
+  <img align="right" alt="Mahmoud's LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
  
