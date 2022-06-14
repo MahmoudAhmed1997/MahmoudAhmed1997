@@ -9,10 +9,10 @@
  
  
  
- <a href="https://twitter.com/MahmoudNAhmad2">
+### <a href="https://twitter.com/MahmoudNAhmad2">
   <img align="left" alt="MahmoudAhmed | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mahmoud-ahmad-953943160/">
+###<a href="https://www.linkedin.com/in/mahmoud-ahmad-953943160/">
   <img align="left" alt="Mahmoud's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
